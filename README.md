@@ -73,3 +73,12 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+## Branching and Pull Request
+
+Version control is important because it allows the user to make changes in different versions.
+This means if I personally prefer a previous version compared to the current version I can revert to the previous save.
+For analytics as a whole it allows for cross collaboration.
+My connection would be that like all projects that I have had to work on with classmates, collaboration is important.
+GitHub Version Control seems like it allows for a smoother process than cross refrencing work over a zoom call or in person.
+
